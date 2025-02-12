@@ -18,6 +18,13 @@
     color: #000;
     margin-bottom: 1.5rem;
   }
+  .dropZone {
+    border: 2px dashed #999;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 15px;
+  }
   
   .contactForm {
     display: flex;
